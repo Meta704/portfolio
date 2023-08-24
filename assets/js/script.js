@@ -10,6 +10,6 @@
 
 //Open CV File
 document.getElementById("open-cv-btn").addEventListener("click", function () {
-    var pdfPath = "../assets/CV_Meishar_Tal.pdf";
+    var pdfPath = "assets/CV_Meishar_Tal.pdf";
     window.open(pdfPath, "_blank");
 });
